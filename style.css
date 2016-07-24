@@ -21,7 +21,6 @@ html, body {
 
 .container {
 	clear: both;
-	margin-top: 1px;
 }
 
 h3 {
@@ -31,7 +30,7 @@ h3 {
 .row {
 	
 	clear: both;
-	
+	border-bottom: 1px solid lightgray;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
@@ -56,6 +55,8 @@ p {
 	padding-right: 0;
 	padding-left: 0;
 	padding-top: 0;
+	height: 291px;
+	overflow: auto;
 }
 
 div.left {
