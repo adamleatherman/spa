@@ -80,7 +80,7 @@ div.left {
 .poke {
 	margin-top: 75px;
 	font-style: italic;
-	width: 550px;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
@@ -88,8 +88,9 @@ div.left {
 
 .poke img {
 	padding-top: 40px;
-	width: 550px;
-	height: 350px;
+	width: 100%;
+	min-width: 200px;
+	height: auto;
 	margin: auto;
 }
 
